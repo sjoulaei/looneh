@@ -6,12 +6,12 @@ Also who knows this might make it easier to get back to programming more serious
 thats enough bs for now. lets see what a commit is.
 This is even some more changes .
 
-hashtag is everywhere these days. Last time i didnt add the fix to issue #1 in the title so it didnt close the issue automatically. This time will see how it goes!
+hashtag is everywhere these days. Last time i didnt add the fix to issue #1 in the title so it didn't close the issue automatically. This time will see how it goes!
 <<<<<<< HEAD
 Now it is cloned on the local git i have on my PRJ3 laptop
 =======
 
-Now checking out this markdown thing. 
+Now checking out this markdown thing.
 Below is a list of stuff:
 - [ ] Do this
 - [ ] Then do this
@@ -34,6 +34,17 @@ $su -
 ````
 
 Back to normal text.
+
+
+Now a new two layer list:
+
+- [ ] Project 1
+  - [] Subproject 11
+  - [] Subproject 12
+-[] Project 2
+  - [] Subproject 21
+
+See how it goes.
 
 
 
