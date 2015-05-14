@@ -7,3 +7,4 @@ thats enough bs for now. lets see what a commit is.
 This is even some more changes .
 
 hashtag is everywhere these days. Last time i didnt add the fix to issue #1 in the title so it didnt close the issue automatically. This time will see how it goes!
+Now it is cloned on the local git i have on my PRJ3 laptop
