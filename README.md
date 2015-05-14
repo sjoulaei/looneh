@@ -7,3 +7,30 @@ thats enough bs for now. lets see what a commit is.
 This is even some more changes .
 
 hashtag is everywhere these days. Last time i didnt add the fix to issue #1 in the title so it didnt close the issue automatically. This time will see how it goes!
+
+Now checking out this markdown thing. 
+Below is a list of stuff:
+- [ ] Do this
+- [ ] Then do this
+- [x] have done this already
+
+Cool.
+Now make a table as below:
+
+| Item | Name | Description |
+|:------:|:------|---------------:|
+| 1 | First Item | Desc of first Item |
+|2|Second Item|Desc of Second Item|
+
+And below is an example of how codes should look like:
+
+````
+$su -
+#yum install git
+
+````
+
+Back to normal text.
+
+
+
