@@ -39,12 +39,14 @@ Back to normal text.
 Now a new two layer list:
 
 - [ ] Project 1
-  - [] Subproject 11
-  - [] Subproject 12
--[] Project 2
-  - [] Subproject 21
+  - [ ] Subproject 11
+  - [ ] Subproject 12
+- [ ] Project 2
+  - [ ] Subproject 21
 
 See how it goes.
+It didn't work properly last time because of spacing. it is really important to add space between - and [ and also between [ and ].
+now should be fine.
 
 
 
